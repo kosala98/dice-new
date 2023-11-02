@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #232931;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Libre Baskerville', serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.btn {
+  margin: 80px auto;
+  width: 30%;
+  border: none;
+  padding: 20px;
+  text-align: center;
+  font-size: 2rem;
+  color: bisque;
+  background: linear-gradient(#232931, #4ECCA3);
+  border-radius: 100%;
+}
